@@ -1,10 +1,3 @@
-# Speed Dating Match Prediction Agent w/ LangGraph
-With Valentine's Day around the corner, love is in the air... and so is data! What makes two people click in just four minutes? Can machine learning predict romantic chemistry? In this project, we're going to find out.
-
-Speed dating generates some of the most fascinating datasets in social science. Imagine hundreds of people rating each other on attractiveness, intelligence, fun, ambition, and shared interests, all while hoping to find that special someone. Every conversation becomes a data point. Every match (or lack thereof) tells a story. Your mission? Build an AI agent that can predict who will match with who before the date even ends.
-
-We're building an intelligent agent that can think through the entire data science pipeline on its own.
-
 
 # Speed Dating Match Prediction Agent with LangGraph
 
